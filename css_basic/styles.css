@@ -27,7 +27,7 @@ article {
 }
 
 aside {
-    flex: 1; /* Take 1/3 of the width */
+    flex:1; /* Take 1/3 of the width */
     overflow-y: auto; /* Enable scrolling if content overflows */
 }
 
